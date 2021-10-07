@@ -1,0 +1,1 @@
+Main-Class: BSUIR.WT.Lab1.Main
